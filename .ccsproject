@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<deviceVariant value="MSP432P401R"/>
+	<deviceFamily value="MSP432"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="15.12.3.LTS"/>
+	<isElfFormat value="true"/>
+	<linkerCommandFile value="msp432p401r.cmd"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=MSP-EXP432P401R_GrLib_Example.projectspec.MSP-EXP432P401R_GrLib_Example,"/>
+	<origin value="C:\ti\MSP432Ware_3_50_00_02\grlib\examples\MSP-EXP432P401R_GrlibExample\CCS\MSP-EXP432P401R_GrLib_Example.projectspec"/>
+	<filesToOpen value="main.c,"/>
+</projectOptions>
